@@ -1,101 +1,121 @@
 # Privacy Policy for Romio
 
-**Effective Date:** August 2, 2025
+**Effective Date:** August 2, 2025  
 
-Romio ("we", "our", or "us") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your data when you use our mobile application.
-
----
-
-## 1. Information We Collect
-
-We collect the following personal and device information:
-
-- **Authentication Data**: Name, email address, and profile image via Google Sign-In using Supabase.
-- **Crash Data**: Device state and crash reports via Firebase Crashlytics.
-- **Notification History**: In-app notification history linked to your user account and stored in Supabase.
-- **Device Identifiers**: Firebase Cloud Messaging (FCM) tokens for push notifications.
+Romio (“Romio,” “we,” “our,” or “us”) respects your privacy. This Privacy Policy explains what we collect, how we use it, how we share it, and the choices you have when using our mobile application (“App”).
 
 ---
 
-## 2. How We Use Your Data
+## 1) Information We Collect
 
-We use your data to:
+- **Account & Auth**: Name, email address, profile image (via Google Sign-In using Supabase Auth).  
+- **App Activity**: In-app notification history (linked to your user ID) stored in Supabase.  
+- **Device & Diagnostics**: Crash and performance data (e.g., device model, OS version, stack traces) via Firebase Crashlytics.  
+- **Push Notifications**: Device tokens (FCM tokens) to deliver notifications.  
+- **Advertising Identifiers (if ads are enabled)**: Google Advertising ID or similar identifiers used by ad networks to show personalized or contextual ads.  
 
-- Enable login and secure access to app features.
-- Display user-specific content (e.g., your plans and notifications).
-- Monitor app performance and resolve crashes.
-- Deliver relevant push notifications.
-- Improve the user experience and app functionality.
-
----
-
-## 3. Data Sharing and Third Parties
-
-We only share data with the following trusted third-party services:
-
-- **Supabase**: Handles user authentication and stores your data securely.
-- **Firebase Crashlytics**: Used to capture crash reports and improve app stability.  
-  [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
-
-We do not sell your data to any third party.
+> We **do not** intentionally collect sensitive categories (e.g., government IDs, financial account numbers, health data) and **do not** collect precise location unless explicitly requested by a feature and permitted by you.
 
 ---
 
-## 4. Legal Basis for Processing
+## 2) How We Use Your Information
 
-By using Romio, you consent to the collection and use of your information as described in this policy. You may withdraw your consent at any time by requesting deletion of your account.
-
----
-
-## 5. User Rights
-
-As a user, you have the right to:
-
-- Access the personal data we store about you
-- Request correction or deletion of your data
-- Withdraw consent to data collection
-
-You can request any of the above actions by contacting us at:
-
-📧 **marcolous11@gmail.com**
+- Authenticate you and secure your account.  
+- Display your content (e.g., saved plans, notifications).  
+- Send push notifications you opt into (you can disable in device settings).  
+- Monitor stability, diagnose crashes, and improve performance.  
+- **Advertising (if enabled)**: Show ads, measure ad performance, and, where permitted, personalize ads.  
 
 ---
 
-## 6. Data Retention
+## 3) Third-Party Services We Use
 
-We retain user data only as long as necessary for app functionality. Notification history and profile data are deleted upon account deletion.
+We share data with service providers only to operate and improve the App:
 
----
+- **Supabase** (authentication, database & storage)  
+- **Firebase Crashlytics** (crash reporting & diagnostics)  
+  - Firebase Privacy: [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)  
+- **Ad Networks (if ads are enabled)**, e.g., Google AdMob / approved partners, which may collect device identifiers and usage info to deliver and measure ads.  
 
-## 7. Account Deletion
-
-To delete your account and all associated data:
-
-Please contact us at **marcolous11@gmail.com** or use the "Delete Account" option in the app settings (if available). Your data will be permanently erased from our systems.
-
----
-
-## 8. Data Security
-
-We use secure HTTPS connections and limit database access to authorized systems. While we take reasonable precautions, no method of electronic transmission or storage is 100% secure.
+> We **do not sell** your personal information.
 
 ---
 
-## 9. Children’s Privacy
+## 4) Legal Bases (EEA/UK users)
 
-Romio is not directed to children under 13. We do not knowingly collect data from children under 13. If we learn we’ve collected such data, we will delete it promptly.
+We process data under:  
+
+- **Consent** (e.g., push notifications, personalized ads where required).  
+- **Contract** (to provide core features you request).  
+- **Legitimate Interests** (e.g., fraud prevention, crash analytics, service improvement), balanced against your rights.  
+
+You may withdraw consent at any time in the App (where available) or via the contact below.  
 
 ---
 
-## 10. Changes to This Policy
+## 5) Your Rights & Choices
 
-We may update this Privacy Policy occasionally. We will notify you of significant changes through the app or by email.
+Subject to your location, you may:  
+
+- **Access** the data we hold about you.  
+- **Correct** inaccurate data.  
+- **Delete** your account and associated data.  
+- **Object to / restrict** certain processing.  
+- **Withdraw consent** (e.g., for notifications or personalized ads).  
+
+Contact us at **[marcolous11@gmail.com](mailto:marcolous11@gmail.com)** to exercise rights. We may need to verify your identity.  
 
 ---
 
-## 11. Contact Us
+## 6) Data Retention
 
-If you have any questions or concerns about this Privacy Policy, please contact:
+We keep personal data only as long as needed to provide the App and for legitimate business/legal purposes. When you delete your account, profile data and in-app notification history are deleted (subject to brief backup/archival retention and legal requirements).  
 
-📧 **marcolous11@gmail.com**
+---
 
+## 7) Account & Data Deletion
+
+- **In-App**: Use **Settings → Delete Account** (when available) to request permanent deletion of your account and associated data.  
+- **Email**: If the in-app option is unavailable, email **[marcolous11@gmail.com](mailto:marcolous11@gmail.com)** from your account email with the subject **“Romio – Delete My Account.”**  
+
+We aim to complete verified deletion requests within **30 days** and will confirm by email.  
+
+> If a “Delete Account” button appears in the App, it will perform an actual deletion request—**we do not display non-functional deletion controls**.  
+
+---
+
+## 8) Data Security
+
+We use industry-standard measures (e.g., HTTPS/TLS in transit, access controls). No method of transmission or storage is 100% secure, but we continuously work to protect your data.  
+
+---
+
+## 9) Children’s Privacy
+
+Romio is **not directed to children under 13**. We do not knowingly collect personal data from children under 13. If you believe a child provided data, contact us to delete it.  
+
+---
+
+## 10) International Transfers
+
+Our providers may process data in countries different from yours. Where required, we use appropriate safeguards for cross-border transfers.  
+
+---
+
+## 11) Permissions & Controls
+
+- **Notifications**: You can enable/disable in device settings.  
+- **Advertising ID** (if ads are enabled): You can reset or limit ad tracking in device settings.  
+- We do not request device permissions beyond what’s necessary for the features you use.  
+
+---
+
+## 12) Changes to This Policy
+
+We may update this Policy from time to time. We’ll post the updated version in-app or on our website and revise the “Effective Date.” Material changes will be highlighted.  
+
+---
+
+## 13) Contact Us
+
+Questions or requests: **[marcolous11@gmail.com](mailto:marcolous11@gmail.com)**  
